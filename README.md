@@ -128,7 +128,7 @@
 <p align="right">
   <img width="600" src="https://github-readme-stats.vercel.app/api?username=patrickgenzz&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-  <img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" alt="GitHub Stats" />
+  <img align="left" width="250" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" alt="GitHub Stats" />
 <p align="right">
   <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=patrickgenzz" alt="GitHub Streak" />
 </p>
