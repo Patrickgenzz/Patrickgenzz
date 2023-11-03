@@ -1,15 +1,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=patrickgenzz&label=Profile%20views&color=0e75b6&style=flat" alt="patrickgenzz" /> </p>
-<h1 align="center">Hi Everyone👋, I'm Patrick</h1>
-<div align="center"> <img alt="Coding"  width="1200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> </div>
+<h1 align="center">Hi Everyone 👋, I'm Patrick 😄 </h1>
+<div align="center"> <img alt="Coding" width="1200"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> </div>
+<div align="center"> <img alt="Coding"  width="1200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> </div>
 
 # 🌐 Social Media:
 <p align="left">
 <a href="https://instagram.com/patrickgenzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patrickgenzz" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/patrick nino kolin prama" target="blank" style=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick nino kolin prama" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010149854768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrick nino" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/patrick-nino-kolin-prama" target="blank" style=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick nino kolin prama" height="30" width="40" /></a>
 </p>
-<br/>
+<div align="center"> <img alt="Coding" width="1200"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> </div>
 
 # 💻 Tech Stack:
+<div align="center"> <img alt="Coding" width="1200"  src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"> </div>
 <div align="left">
       <h3>Languages</h3>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -52,7 +55,8 @@
           width="40"
           height="40"
         />
-      </a>
+      </a>&nbsp;&nbsp;
+       <img alt="Coding" width="50" align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
       <h3>Frameworks</h3>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
@@ -106,6 +110,7 @@
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
       </a>&nbsp;&nbsp;
+      <img alt="Coding" width="50" align="right" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"> 
     <h3>Database</h3>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
@@ -115,18 +120,19 @@
           height="40"
         />
       </a>
+      <img alt="Coding" width="50" align="right" src="https://camo.githubusercontent.com/8c1d46669cd2ae2549ff36ded20b04bd092b2ff987c395849bc43e4b444a56ab/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966"> 
 </div>
-<br/>
+<div align="center"> <img alt="Coding" width="1200"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> </div>
 
-# 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickgenzz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+# 📊 GitHub Stat:
+<p align="right">
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=patrickgenzz&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickgenzz&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" alt="GitHub Stats" />
+<p align="right">
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=patrickgenzz" alt="GitHub Streak" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickgenzz" alt="GitHub Streak" />
+<p align="right">
+  <img width="600"  src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickgenzz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+<div align="center"> <img alt="Coding" width="1200"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> </div>
